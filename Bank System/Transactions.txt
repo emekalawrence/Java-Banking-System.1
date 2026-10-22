@@ -1,0 +1,410 @@
+
+...................................................................
+Date & Time   : 09/10/2026 07:57:35
+Account Number: 123456789
+Transaction   : 123456789
+Amount        : M 9000.0
+Balance       : M 9000.0
+Result        :  Account created successfully! 
+Account Type  : Savings
+...................................................................
+
+...................................................................
+Date & Time   : 09/10/2026 07:57:45
+Account Number: 123456789
+Transaction   :  Interest
+Amount        : M 9000.0
+Balance       : M 9450.0
+Result        : Interest Calculated Successfully 
+Account Type  : Savings Account
+...................................................................
+
+...................................................................
+Date & Time   : 09/10/2026 08:05:29
+Account Number: 123456789
+Transaction   :  Interest
+Amount        : M 9000.0
+Balance       : M 9450.0
+Result        : Interest Calculated Successfully 
+Account Type  : Savings Account
+...................................................................
+
+...................................................................
+Date & Time   : 09/10/2026 09:58:11
+Account Number: 111111111
+Transaction   : jjjs
+Amount        : M 1000000.0
+Balance       : M 1000000.0
+Result        :  Account created successfully! 
+Account Type  : Savings
+...................................................................
+
+...................................................................
+Date & Time   : 09/10/2026 09:58:34
+Account Number: 122111111
+Transaction   : May
+Amount        : M 100000.0
+Balance       : M 100000.0
+Result        :  Account created successfully! 
+Account Type  : Savings
+...................................................................
+
+...................................................................
+Date & Time   : 09/10/2026 09:59:34
+Account Number: 111111111
+Transaction   :  Request Loan
+Amount        : M 100000.0
+Balance       : M 1000000.0
+Result        : Loan Not Approved  
+Account Type  : Savings Account
+...................................................................
+
+...................................................................
+Date & Time   : 09/10/2026 09:59:51
+Account Number: 111111111
+Transaction   :  Request Loan
+Amount        : M 90000.0
+Balance       : M 1000000.0
+Result        : Loan Not Approved  
+Account Type  : Savings Account
+...................................................................
+
+...................................................................
+Date & Time   : 09/10/2026 10:00:17
+Account Number: 111111111
+Transaction   :  Request Loan
+Amount        : M 9000.0
+Balance       : M 1009000.0
+Result        : Loan Approved  
+Account Type  : Savings Account
+...................................................................
+
+...................................................................
+Date & Time   : 09/10/2026 10:04:15
+Account Number: 111111111
+Transaction   :  Request Loan
+Amount        : M 200.0
+Balance       : M 1009200.0
+Result        : Loan Approved  
+Account Type  : Savings Account
+...................................................................
+
+...................................................................
+Date & Time   : 09/10/2026 10:07:38
+Account Number: 111111111
+Transaction   :  Request Loan
+Amount        : M 300.0
+Balance       : M 1009500.0
+Result        : Loan Approved  
+Account Type  : Savings Account
+...................................................................
+
+...................................................................
+Date & Time   : 09/10/2026 10:40:33
+Account Number: 100000000
+Transaction   : 111111111
+Amount        : M 10000.0
+Balance       : M 10000.0
+Result        :  Account created successfully! 
+Account Type  : Savings
+...................................................................
+
+...................................................................
+Date & Time   : 09/10/2026 10:41:11
+Account Number: 111111111
+Transaction   :  Request Loan
+Amount        : M 1000.0
+Balance       : M 1009500.0
+Result        : Loan Not Approved  
+Account Type  : Savings Account
+...................................................................
+
+...................................................................
+Date & Time   : 16/10/2026 00:42:23
+Account Number: 213456788
+Transaction   : law
+Amount        : M 22112.0
+Balance       : M 22112.0
+Result        :  Account created successfully! 
+Account Type  : Savings
+...................................................................
+
+...................................................................
+Date & Time   : 20/10/2026 21:59:36
+Account Number: 123456789
+Transaction   :  Interest
+Amount        : M 9450.0
+Balance       : M 9922.5
+Result        : Interest Calculated Successfully 
+Account Type  : Savings Account
+...................................................................
+
+...................................................................
+Date & Time   : 20/10/2026 22:00:08
+Account Number: 231234567
+Transaction   : lae
+Amount        : M 2000.0
+Balance       : M 2000.0
+Result        : Account created successfully!
+Account Type  : Current
+...................................................................
+
+...................................................................
+Date & Time   : 20/10/2026 22:00:27
+Account Number: 231234567
+Transaction   :  Interest
+Amount        : M 2000.0
+Balance       : M 2000.0
+Result        : Interest Calculated Successfully 
+Account Type  : Current Account
+...................................................................
+
+...................................................................
+Date & Time   : 20/10/2026 22:01:22
+Account Number: 231234567
+Transaction   :  Interest
+Amount        : M 2000.0
+Balance       : M 2000.0
+Result        : Interest Calculated Successfully 
+Account Type  : Current Account
+...................................................................
+
+...................................................................
+Date & Time   : 20/10/2026 22:09:57
+Account Number: 123456789
+Transaction   :  Interest
+Amount        : M 9922.5
+Balance       : M 10418.625
+Result        : Interest Calculated Successfully 
+Account Type  : Savings Account
+...................................................................
+
+...................................................................
+Date & Time   : 20/10/2026 22:10:36
+Account Number: 123456567
+Transaction   : laqq
+Amount        : M 1000.0
+Balance       : M 1000.0
+Result        : Account created successfully!
+Account Type  : Current
+...................................................................
+
+...................................................................
+Date & Time   : 20/10/2026 22:10:47
+Account Number: 123456567
+Transaction   :  Interest
+Amount        : M 1000.0
+Balance       : M 1000.0
+Result        : Interest Calculated Successfully 
+Account Type  : Current Account
+...................................................................
+
+...................................................................
+Date & Time   : 20/10/2026 22:11:25
+Account Number: 123456789
+Transaction   :  Interest
+Amount        : M 10418.625
+Balance       : M 10939.55625
+Result        : Interest Calculated Successfully 
+Account Type  : Savings Account
+...................................................................
+
+...................................................................
+Date & Time   : 20/10/2026 22:36:44
+Account Number: 231234567
+Transaction   : Interest
+Amount        : M 2000.0
+Balance       : M 2000.0
+Result        : Interest Calculated Successfully
+Account Type  : Current Account
+...................................................................
+
+...................................................................
+Date & Time   : 20/10/2026 22:39:08
+Account Number: 231234567
+Transaction   : Interest
+Amount        : M 2000.0
+Balance       : M 2000.0
+Result        : Interest Calculated Successfully
+Account Type  : Current Account
+...................................................................
+
+...................................................................
+Date & Time   : 20/10/2026 22:40:00
+Account Number: 231234567
+Transaction   : Interest
+Amount        : M 2000.0
+Balance       : M 2000.0
+Result        : Interest Calculated Successfully
+Account Type  : Current Account
+...................................................................
+
+...................................................................
+Date & Time   : 20/10/2026 22:53:27
+Account Number: 231234567
+Transaction   : Interest
+Amount        : M 2000.0
+Balance       : M 2000.0
+Result        : Interest Calculated Successfully
+Account Type  : Current Account
+...................................................................
+
+...................................................................
+Date & Time   : 20/10/2026 22:54:50
+Account Number: 231234567
+Transaction   : Interest
+Amount        : M 2000.0
+Balance       : M 2000.0
+Result        : Interest Calculated Successfully
+Account Type  : Current Account
+...................................................................
+
+...................................................................
+Date & Time   : 20/10/2026 23:01:13
+Account Number: 231234567
+Transaction   : Interest
+Amount        : M 2000.0
+Balance       : M 2000.0
+Result        : Interest Calculated Successfully
+Account Type  : Current Account
+...................................................................
+
+...................................................................
+Date & Time   : 20/10/2026 23:01:59
+Account Number: 231234567
+Transaction   : Interest
+Amount        : M 2000.0
+Balance       : M 2000.0
+Result        : Interest Calculated Successfully
+Account Type  : Current Account
+...................................................................
+
+...................................................................
+Date & Time   : 20/10/2026 23:03:20
+Account Number: 231234567
+Transaction   : Interest
+Amount        : M 2000.0
+Balance       : M 2000.0
+Result        : Interest Calculated Successfully
+Account Type  : Current Account
+...................................................................
+
+...................................................................
+Date & Time   : 20/10/2026 23:06:41
+Account Number: 231234567
+Transaction   : Interest
+Amount        : M 2000.0
+Balance       : M 2030.0
+Result        : Interest Calculated Successfully
+Account Type  : Current Account
+...................................................................
+
+...................................................................
+Date & Time   : 20/10/2026 23:29:33
+Account Number: 123456789
+Transaction   :  Request Loan
+Amount        : M 2000.0
+Balance       : M 12939.55625
+Result        : Loan Approved  
+Account Type  : Savings Account
+...................................................................
+
+...................................................................
+Date & Time   : 20/10/2026 23:32:41
+Account Number: 123456789
+Transaction   :  Request Loan
+Amount        : M 9000.0
+Balance       : M 12939.55625
+Result        : Loan Not Approved  
+Account Type  : Savings Account
+...................................................................
+
+...................................................................
+Date & Time   : 22/10/2026 10:59:38
+Account Number: 123456789
+Transaction   : Interest
+Amount        : M 12939.55625
+Balance       : M 13586.534062499999
+Result        : Interest Calculated Successfully
+Account Type  : Savings Account
+...................................................................
+
+...................................................................
+Date & Time   : 22/10/2026 11:01:26
+Account Number: 123456789
+Transaction   : Interest
+Amount        : M 13586.534062499999
+Balance       : M 14265.860765624999
+Result        : Interest Calculated Successfully
+Account Type  : Savings Account
+...................................................................
+
+...................................................................
+Date & Time   : 22/10/2026 11:02:45
+Account Number: 100000000
+Transaction   : Interest
+Amount        : M 10000.0
+Balance       : M 10500.0
+Result        : Interest Calculated Successfully
+Account Type  : Savings Account
+...................................................................
+
+...................................................................
+Date & Time   : 22/10/2026 11:06:47
+Account Number: 100000000
+Transaction   : Interest
+Amount        : M 10500.0
+Balance       : M 11025.0
+Result        : Interest Calculated Successfully
+Account Type  : Savings Account
+...................................................................
+
+...................................................................
+Date & Time   : 22/10/2026 11:07:30
+Account Number: 100000000
+Transaction   : Interest
+Amount        : M 11025.0
+Balance       : M 11576.25
+Result        : Interest Calculated Successfully
+Account Type  : Savings Account
+...................................................................
+
+...................................................................
+Date & Time   : 22/10/2026 11:21:57
+Account Number: 908006965
+Transaction   : alcha
+Amount        : M 5000.0
+Balance       : M 5000.0
+Result        : Account created successfully!
+Account Type  : Current
+...................................................................
+
+...................................................................
+Date & Time   : 22/10/2026 11:22:41
+Account Number: 908006965
+Transaction   : Deposit
+Amount        : M 9000000.0
+Balance       : M 9005000.0
+Result        : Amount Successfully Deposited
+Account Type  : Current Account
+...................................................................
+
+...................................................................
+Date & Time   : 22/10/2026 11:23:09
+Account Number: 908006965
+Transaction   : Withdraw
+Amount        : M 10000.0
+Balance       : M 8995000.0
+Result        : Amount Withdraw Successfully 
+Account Type  : Current Account
+...................................................................
+
+...................................................................
+Date & Time   : 22/10/2026 11:24:02
+Account Number: 908006965
+Transaction   :  Request Loan
+Amount        : M 8090.0
+Balance       : M 9003090.0
+Result        : Loan Approved  
+Account Type  : Current Account
+...................................................................
